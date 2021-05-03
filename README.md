@@ -26,7 +26,10 @@
 
 ## About The Project
 
-The project includes a report, written for the Information Systems Security course, about IDSs and the analysis of an open source anomaly-based IDS
+This work provides an overview of the different IDS technologies, considering also open issues and evaluation metrics used for evaluating the performance of intrusion detection systems. Section 3 is exclusively focused on a particular kind of IDS called anomaly-based, and discuss about the idea behind them, the algorithms used and the available tools.
+
+Section 4 treats the main topic of this work, so it presents an overview of the open-source AIDS, Hogzilla IDS, exploring the main components and the general workflow.
+Section 5 explained in more details the algorithms and the workflow, that will be tested in section 6 against benchmark datasets.
 
 <!-- GETTING STARTED -->
 
